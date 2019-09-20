@@ -1,0 +1,10 @@
+Create 2 arrays, 'given' and 'found'
+'given' will be the encrypted input.
+'found' will be compared to it, and the difference between the two will be counted.
+'found' will be the array constructed by encrypting it with a key.
+
+There are 26 possible keys for this cipher. Because we don't have the key,
+we will try all 26 possible keys. The solution will be the key that results in the
+'found' array that is the closest to the 'given' array of the 26 tested keys.
+
+
