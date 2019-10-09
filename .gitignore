@@ -1,7 +1,9 @@
 # User Specified
 instructions.pdf
-cmake-build-debug/CMakeFiles/
-.idea
+cmake-build-debug/
+.idea/
+.vs/
+.vscode/
 
 # Prerequisites
 *.d
